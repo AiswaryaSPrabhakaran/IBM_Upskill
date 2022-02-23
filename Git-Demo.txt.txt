@@ -1,0 +1,7 @@
+Create,save and push a file to the given repository in git
+
+git init
+git add * //git add <filename>
+git commit -m "first commit" //message
+git remote add origin https://github.com/AiswaryaSPrabhakaran/IBM_Upskill.git
+git push -u origin master
